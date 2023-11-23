@@ -1,0 +1,11 @@
+app
+a.out*
+*.hipi
+*.o
+*.bc
+*.ll
+*.resolution.txt
+*.s
+*.hipfb
+*.mcin
+
