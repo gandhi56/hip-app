@@ -10,8 +10,8 @@
     std::abort();}}
 
 __global__ void driver(int N, double *arr) {
-  foo_func1(N, arr);
   bar_func1(N, arr);
+  foo_func1(N, arr);
 }
 
 int main() {
